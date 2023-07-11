@@ -1,4 +1,4 @@
-![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/013fd0f7-578d-4e18-ae4b-e0a647dbe663)# Invereter-design-using45nm_tech_using-Cadenece_virtuoso#
+# Invereter-design-using45nm_tech_using-Cadenece_virtuoso#
 Invereter-design-using45nm_tech_using Cadenece_virtuoso_stepby_step
 
 Start VMware
@@ -125,6 +125,15 @@ Press Shif+F and view the RC VAlues
 ![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/c4108fce-3e95-4ea1-a6a8-994344809311)
 
 
+Thank you to 
+#Dr Madhumita Das Sarkar (MAKAUT)
+#Dr Mihir Kumar Mahata (MAKAUT)
+#Dr Ria Bose (MAKAUT)
+#Mr. Rajesh Yadav (Samsung) 
+#Team VLSI 
+#VLSI For ALL
+#Mr.Samanway Ghosh (MAKAUT)
+#Mr. Arpan Konar
 
 
 
