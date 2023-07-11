@@ -46,6 +46,26 @@ we need to check the
 4. LVS
 5. Extraction of RLC (over here I prefer only RC)
 
+#Technology Checking#
+This step is to be done because Engineer need to assure that technology Lib file is attached to the design files.
+Got to *Assura* Then *Technology* then give the directory 
+/home/buet/cadence/gpdk090_v4.6/assura_tech.lib
+
+Press Ok 
+
+#DRC#
+Got to *Assura* the *Run DRC*
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/b618c743-1c64-422f-8e49-103ad504e772)
+
+Mention the GPDK lib and Layout Directory as mentioned in the Image
+
+Press OK 
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/d4886e89-e20f-4aa3-9d3f-85782d6ea621)
+
+Then this will appear Press ok or yes
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/18269a92-e5c4-420a-ac8a-a7d5338c454d)
 
 
 
