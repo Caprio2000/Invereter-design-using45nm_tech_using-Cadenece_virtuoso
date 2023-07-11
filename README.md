@@ -1,4 +1,4 @@
-# Invereter-design-using45nm_tech_using-Cadenece_virtuoso#
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/013fd0f7-578d-4e18-ae4b-e0a647dbe663)# Invereter-design-using45nm_tech_using-Cadenece_virtuoso#
 Invereter-design-using45nm_tech_using Cadenece_virtuoso_stepby_step
 
 Start VMware
@@ -66,6 +66,63 @@ Press OK
 Then this will appear Press ok or yes
 
 ![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/18269a92-e5c4-420a-ac8a-a7d5338c454d)
+
+then this will arrive
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/6fe8dbdd-1305-4a0b-8dca-66801b60c951)
+That means No DRC Violations.
+We are ok to go further.
+
+#Checking LVS#
+
+Got to *Assura* then *LVS*
+
+then follow my screenshot
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/bd30b0ce-cf08-4211-bc7b-078f71f84abd)
+
+after pressing ok this will arrive 
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/f2cb060d-c272-4d13-be19-aa8918430e01)
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/9ddaed55-db0d-4c60-8cdd-c3b52c556dd8)
+
+Then press yes
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/29968591-51c3-4dfb-8ffe-18038725cf31)
+
+Wish u good Luck!
+
+Layout Vs Schematic is all good.
+
+#Run RCX Or the Ultimate RC extraction of our Layout#
+Got to *Assura* then go to  *RUN RCX*
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/9d243748-349a-4167-b5c2-e3a38b2758dc)
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/9c02659e-9b1a-477a-a2a0-823f77d364fd)
+
+then 
+press OK 
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/904c0431-2a4e-4b45-8546-bdf7adb518fe)
+
+Then 
+go to CDS.LOg window to view
+
+File - Open_ your library (in my case 'inv_layout')_
+select the the layout file and change the view mode to *av Extracted*
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/96f41cf7-4dc7-4d63-95ed-80dfbe12e107)
+
+Press OK 
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/9530698e-9aef-4cae-9574-45099c7f1aa8)
+
+It will arrive 
+
+
+
+
+
+
+
 
 
 
