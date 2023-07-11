@@ -118,6 +118,12 @@ Press OK
 It will arrive 
 
 
+Press Shif+F and view the RC VAlues 
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/46170fc5-c0d4-4f2f-9527-e5b7878f477e)
+
+![image](https://github.com/Caprio2000/Invereter-design-using45nm_tech_using-Cadenece_virtuoso/assets/71349997/c4108fce-3e95-4ea1-a6a8-994344809311)
+
 
 
 
